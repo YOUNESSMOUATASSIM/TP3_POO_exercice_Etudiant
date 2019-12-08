@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575804865 source:h:\c_c++\tp3_poo_exercice_etudiant\main.cpp
+	<iostream>
+	"Etudiant .h"
+
+1575808706 source:h:\c_c++\tp3_poo_exercice_etudiant\src\etudiant .cpp
+	"Etudiant .h"
+	<iostream>
+	<string.h>
+	<malloc.h>
+
+1575672269 h:\c_c++\tp3_poo_exercice_etudiant\include\etudiant .h
+
